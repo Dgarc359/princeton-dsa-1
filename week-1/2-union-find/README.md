@@ -1,0 +1,23 @@
+# Union Find
+
+#### Implementations
+quick find
+quick union
+weighted quick union
+weighted quick union with path compression
+
+#### Analysis of Algorithms
+Performing computational expereiments to measure runtimes
+Use measurements to develop performance hypothesis
+Create mathematical models to explain behavior
+Analyze memory usage of Java programs
+
+#### Assignment: Percolation
+Physical Chemistry component. Demonstrates the difference a good algorithm can make (Solving the problem, vs not at all)
+
+#### Job Interview Questions
+Algorithmic interview questions based on above material
+
+#### Suggested Reading
+Algorithms, 4th ed -- 1.4 / 1.5
+
